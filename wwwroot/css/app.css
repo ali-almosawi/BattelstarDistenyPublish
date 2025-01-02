@@ -49,7 +49,6 @@ html, body {
     }
 }
 
-
 /* Layout*/
 .side-component {
     background-image: url('../images/scifi/bg1.jpg');
@@ -104,10 +103,6 @@ html, body {
     background-size: cover;
     flex-grow: 1;
     padding: 0px;
-}
-
-.frameworkBoard {
-    background-image: url('../images/hardware/pcbboard2.png');
 }
 
 h1:focus {
@@ -295,33 +290,33 @@ code {
 /* Game UI Elements*/
 
 .gameButton {
-    background-image: url('..images/button 1/button normal.png');
+    background-image: url('../images/button 1/button normal.png');
     font-family: 'Times New Roman';
-    width:114px;
-    height:38px;
+    width: 114px;
+    height: 38px;
     border: none;
     color: white;
 }
-.gameButton:hover {
-    background-image: url('..images/button 1/button hover.png');
-}
-.gameButton:active {
-    background-image: url('..images/button 1/button active.png');
-}
-.gameButton:disabled {
-    background-image: url('..images/button 1/button disable.png');
-}
+    .gameButton:hover {
+        background-image: url('../images/button 1/button hover.png');
+    }
+    .gameButton:active {
+        background-image: url('../images/button 1/button active.png');
+    }
+    .gameButton:disabled {
+        background-image: url('../images/button 1/button disable.png');
+    }
 .gameCardX1 {
-    background-image: url('..images/card x1/card x2.png');
+    background-image: url('../images/card x1/card x2.png');
     font-family: 'Times New Roman';
     width: 396px;
     height: 847px;
     border: none;
     color: white;
-    padding:25px;
+    padding: 25px;
 }
 .gameCardX2 {
-    background-image: url('..images/card x2/card x3.png');
+    background-image: url('../images/card x2/card x3.png');
     font-family: 'Times New Roman';
     width: 396px;
     height: 378px;
@@ -330,7 +325,7 @@ code {
     padding: 25px;
 }
 .gameCardX3 {
-    background-image: url('..images/card x3/card x5.png');
+    background-image: url('../images/card x3/card x5.png');
     font-family: 'Times New Roman';
     width: 695px;
     height: 377px;
@@ -591,7 +586,7 @@ filter: sepia(60%);*/
 .stargate-sidemenu {
     width: 330px;
     height: 330px;
-    background-image: url('..images/star-gate/gate1.png');
+    background-image: url('../images/star-gate/gate1.png');
     background-size: cover;
     box-sizing: border-box;
     margin: 30px 30px 30px 30px;
@@ -608,13 +603,12 @@ filter: sepia(60%);*/
 }
 
 .frameworkParts {
-    background-image: url('..images/card x1/card x2.png');
-   /*background-size:auto;*/
+    background-image: url('../images/card x1/card x2.png');
+    /*background-size:auto;*/
     width: 396px;
     height: 847px;
     /*border: 1px solid black;*/
     padding: 25px;
-  
 }
 
 

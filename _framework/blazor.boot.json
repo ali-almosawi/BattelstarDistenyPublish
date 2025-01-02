@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BattelstarDistenyUI",
   "resources": {
-    "hash": "sha256-ec8suqR6rQA6dBDDko16O0JV8OgtIEf01njjC2gJpUs=",
+    "hash": "sha256-1POnj+CNuolMbY8W/R1eZrWAruugHg73qHyKvyoGlUs=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.bw77k7nuop.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "BattelstarDistenyUI.dll": "sha256-wm6/+QHZu90VJHjqKZHQcn7fv0qqf4CN/MNmACpC8xY=",
+      "BattelstarDistenyUI.dll": "sha256-Qe8wNDA8scVcuxv7/qD+AvMsDaNj0x21hpGA71InjFg=",
       "Blazored.LocalStorage.dll": "sha256-ZGOhicUlxsmaD44LUlk9QGefwrharIvp8bP1r4UKlPU=",
       "Microsoft.AspNetCore.Components.dll": "sha256-/GCsVjxoRX8D5G/KwTQEZPP5lNYDomSYDV60XanNWYs=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-IgA40BcPk58zAUyjkLhjC95N5aCr4+pX9PbTM9PlRxw=",
